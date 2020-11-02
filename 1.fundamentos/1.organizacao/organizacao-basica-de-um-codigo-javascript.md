@@ -33,3 +33,5 @@ Outro exemplo de bloco:
 Agora, temos dois blocos de código, um mais externo que contem outro bloco, e esse outro bloco interno, que contém nossas duas sentenças de código.
 
 É importante destacar, que as chaves "{}" não alteram em nada o funcionamento desse código acima, nesse caso, foi usado só para explicação, sua função aí é só para indentação.
+
+(Acesse o exemplo desse código)[1.fundamentos/1.organizacao/organizacao.js]
