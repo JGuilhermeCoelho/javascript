@@ -34,4 +34,4 @@ Agora, temos dois blocos de código, um mais externo que contem outro bloco, e e
 
 É importante destacar, que as chaves "{}" não alteram em nada o funcionamento desse código acima, nesse caso, foi usado só para explicação, sua função aí é só para indentação.
 
-(Acesse o exemplo desse código)[1.fundamentos/1.organizacao/organizacao.js]
+[Acesse o exemplo desse código](1.fundamentos/1.organizacao/organizacao.js)
